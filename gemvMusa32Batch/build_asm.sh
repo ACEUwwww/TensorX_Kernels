@@ -1,0 +1,1 @@
+mcc -x musa -S --cuda-device-only gemv_32.mu --offload-arch=mp_22 -o test.s
