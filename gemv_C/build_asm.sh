@@ -1,0 +1,1 @@
+mcc -x musa -S --cuda-device-only matrix_multiplication_half.mu --offload-arch=mp_22 -o test2.s
